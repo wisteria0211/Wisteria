@@ -6,7 +6,7 @@ docs/.vitepress/cache/
 docs/.vitepress/dist/
 
 # Local cache
-.vitepress/
+/.vitepress/
 
 # Environment variables and secrets
 .env
