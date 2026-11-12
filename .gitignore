@@ -1,0 +1,17 @@
+# Dependencies
+node_modules/
+
+# VitePress generated files
+docs/.vitepress/cache/
+docs/.vitepress/dist/
+
+# Local cache
+.vitepress/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Windows system files
+Thumbs.db
+Desktop.ini
